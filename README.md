@@ -10,3 +10,11 @@
 * react-native start
 ```
 
+### 需要安装的modules
+```
+* npm install --save react-redux
+* npm install --save redux-saga
+* npm install --save redux-batched-actions
+* npm install --save redux
+* npm install --save redux-actions
+```
